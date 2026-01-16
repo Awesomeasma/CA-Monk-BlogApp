@@ -1,0 +1,88 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "The Future of Fintech in 2024",
+      "category": "FINANCE",
+      "description": "Exploring how AI and blockchain are reshaping financial services and what it means for future...",
+      "content": "## The Intersection of Finance and Technology\n\nThe intersection of finance and technology has never been more vibrant. As we look towards 2024, the role of the Chartered Accountant is evolving from mere bookkeeping to strategic financial analysis powered by AI.\n\n## The Rise of Automated Accounting\n\nAutomation is no longer a buzzword, it's a reality. Routine tasks like data entry, reconciliation, and payroll processing are being automated at an unprecedented pace. This shift allows finance professionals to focus on high-value activities such as:\n\n- Strategic financial planning and analysis (FP&A)\n- Risk management and compliance auditing\n- Advisory services for business growth and sustainability\n\n## Blockchain: Beyond Cryptocurrency\n\nWhile Bitcoin grabs the headlines, the underlying technology—blockchain—is quietly revolutionizing auditing. The immutable ledger provides a \"single source of truth\" that could potentially eliminate the need for sampling in audits, allowing for 100% verification of transactions.\n\n## Preparing for the Shift\n\nTo stay relevant, CAs must upskill. Understanding Python for data analysis, mastering visualization tools like Power BI, and getting comfortable with AI-driven ERP systems are now essential skills. The traditional syllabus provides the foundation, but continuous learning builds the career.",
+      "date": "Oct 24, 2023",
+      "readTime": "5 min read",
+      "author": "Arjun Mehta",
+      "authorRole": "Senior Financial Analyst",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Ace Your CA Finals",
+      "category": "CAREER",
+      "description": "Strategies and study plans to help you clear your exams in the first attempt without burning out...",
+      "content": "## Study Strategy\n\nPassing CA finals requires a structured approach. Here are proven strategies:\n\n- Create a detailed study schedule\n- Focus on high-weight topics first\n- Practice previous year papers\n- Join study groups for complex topics\n- Take regular mock tests\n\n## Time Management\n\nEffective time management during exams is crucial. Allocate your time wisely between different sections and questions.",
+      "date": "Oct 20, 2023",
+      "readTime": "4 min read",
+      "author": "Priya Singh",
+      "authorRole": "CA Exam Coach",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Understanding Tax Reforms",
+      "category": "REGULATIONS",
+      "description": "A comprehensive breakdown of the new tax laws introduced this fiscal year and their impact on...",
+      "content": "## New Tax Amendments\n\nThe government has introduced several new tax amendments this fiscal year. Let's break them down:\n\n## Section 194O\n\nA new section for TDS on e-commerce transactions.\n\n## Impact Analysis\n\nThese changes will significantly impact:\n\n- Small businesses and startups\n- E-commerce sellers\n- Freelancers and consultants\n- Corporate entities\n\n## Compliance Timeline\n\nMake sure to comply with all deadlines mentioned in the circular.",
+      "date": "Oct 18, 2023",
+      "readTime": "6 min read",
+      "author": "Rajesh Kumar",
+      "authorRole": "Tax Consultant",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Soft Skills for Auditors",
+      "category": "SKILLS",
+      "description": "Why technical knowledge isn't enough. Mastering communication and negotiation in your audits...",
+      "content": "## The Missing Piece\n\nTechnical knowledge is important, but soft skills are what make great auditors:\n\n- Communication skills\n- Negotiation abilities\n- Problem-solving mindset\n- Emotional intelligence\n- Leadership capabilities\n\n## Building These Skills\n\nInvest time in:\n\n- Attending workshops\n- Reading books on communication\n- Practicing presentations\n- Seeking mentorship",
+      "date": "Oct 15, 2023",
+      "readTime": "3 min read",
+      "author": "Neha Sharma",
+      "authorRole": "Training Director",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Audit Automation Tools",
+      "category": "TECHNOLOGY",
+      "description": "Exploring the latest tools and software that are transforming the audit process...",
+      "content": "## Modern Audit Tools\n\nThe audit landscape is changing rapidly. New tools are making audits more efficient:\n\n- IDEA for data analysis\n- ACL for continuous auditing\n- Alteryx for workflow automation\n- Tableau for visualization\n\n## Benefits\n\nThese tools provide:\n\n- Faster audit cycles\n- Better accuracy\n- Enhanced reporting\n- Improved client communication\n\n## Getting Started\n\nMost firms are already investing in these tools. Make sure you're trained and ready to use them.",
+      "date": "Oct 10, 2023",
+      "readTime": "5 min read",
+      "author": "Vikram Patel",
+      "authorRole": "Audit Technology Lead",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Your Blog Title",
+      "category": "FINANCE",
+      "description": "Short description here",
+      "content": "Full content here. ## Use markdown for formatting",
+      "date": "Jan 15, 2026",
+      "readTime": "5 min read",
+      "author": "Adil",
+      "authorRole": "Senior Developer",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": 1768572569124,
+      "title": "heh",
+      "category": "FINANCE",
+      "description": "fhrherheh",
+      "content": "asrherh",
+      "author": "fhre",
+      "authorRole": "sgwrh",
+      "date": "Jan 16, 2026",
+      "readTime": "1 min read",
+      "image": "/blog-article.jpg"
+    }
+  ]
+}
