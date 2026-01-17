@@ -61,7 +61,7 @@
       "image": "/blog-article.jpg"
     },
     {
-      "id": 6,
+      "id": "6",
       "title": "Your Blog Title",
       "category": "FINANCE",
       "description": "Short description here",
@@ -73,7 +73,7 @@
       "image": "/blog-article.jpg"
     },
     {
-      "id": 1768572569124,
+      "id": "1768572569124",
       "title": "heh",
       "category": "FINANCE",
       "description": "fhrherheh",
@@ -81,6 +81,18 @@
       "author": "fhre",
       "authorRole": "sgwrh",
       "date": "Jan 16, 2026",
+      "readTime": "1 min read",
+      "image": "/blog-article.jpg"
+    },
+    {
+      "id": 1768639784098,
+      "title": "hjh",
+      "category": "FINANCE",
+      "description": "hjbj",
+      "content": "jhbj",
+      "author": "hgvhj",
+      "authorRole": "ugui",
+      "date": "Jan 17, 2026",
       "readTime": "1 min read",
       "image": "/blog-article.jpg"
     }

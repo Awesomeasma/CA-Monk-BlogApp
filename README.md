@@ -197,7 +197,7 @@ Expected output:
 ### Accessing the Application
 
 1. Open your browser
-2. Navigate to `http://localhost:3000/blog`
+2. Navigate to `http://localhost:3000/`
 3. You should see:
    - Professional navbar with CA MONK logo
    - Blog list on the left sidebar
